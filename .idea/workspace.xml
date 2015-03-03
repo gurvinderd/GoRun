@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df2d524c-053e-4bb5-a959-6e7c02a53150" name="Default" comment="First Run (log4j warnings)">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GoRun.iml" afterPath="$PROJECT_DIR$/GoRun.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GoRun/demoqa/testCases/TestCase_POF.java" afterPath="$PROJECT_DIR$/src/GoRun/demoqa/testCases/TestCase_POF.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testng.xml" afterPath="$PROJECT_DIR$/testng.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="GoRun.iws" />
@@ -595,6 +592,13 @@
       <option name="number" value="Default" />
       <updated>1425192049420</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Run (log4j warnings)">
+      <created>1425367085632</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1425367085632</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
