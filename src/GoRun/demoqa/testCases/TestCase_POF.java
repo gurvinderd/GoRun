@@ -14,12 +14,14 @@ import org.openqa.selenium.support.PageFactory;
 import GoRun.demoqa.pageObjects.Home_PG_POF;
 
 import GoRun.demoqa.pageObjects.LogIn_PG_POF;
+import org.testng.annotations.Test;
 
 public class TestCase_POF {
 
     static WebDriver driver;
 
-    public static void main(String[] args) throws InterruptedException{
+    @Test
+    public void main() throws InterruptedException {
 
         driver = new FirefoxDriver();
 

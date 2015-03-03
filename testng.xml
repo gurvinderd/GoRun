@@ -7,10 +7,11 @@
   	<test name="Random Test">
 		<classes>
        		<!-- 	-->
-       			<class name="testCases.Framework_001" />
-       			<class name="testCases.Framework_002" />
-       			
-				  
-		</classes>
-  	</test> <!-- Test -->
+            <!--	<class name="testCases.Framework_001" /> -->
+            <class name="GoRun.demoqa.testCases.TestCase_POF"/>
+
+
+        </classes>
+    </test>
+    <!-- Test -->
 </suite> <!-- Suite -->
